@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Round-heads remembrancer: or, a true and particular relation of the great defeat given to the rebels by His Majesties good subjects of the county of Cornwall, under the command of Sr Ralph Hopton, on Tuesday May 16. 1643.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92005</idno><idno type="EEBO-CITATION">99871421</idno>
+  <idno type="VID">155960</idno>
+  <idno type="EEBO-PROQUEST">2240928905</idno>
+  
+            <idno type="STC">Wing R2009</idno>
+            <idno type="STC">Thomason E105_13</idno>
+            <idno type="STC">ESTC R2142</idno>
+            <idno type="PROQUEST">99871421</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871421e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92005)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155960)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E105[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Round-heads remembrancer: or, a true and particular relation of the great defeat given to the rebels by His Majesties good subjects of the county of Cornwall, under the command of Sr Ralph Hopton, on Tuesday May 16. 1643.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>Printed in the yeare 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Madan.</note>
+                  <note>"A short but apparently accurate account of the fight at Stratton"--Madan.</note>
+                  <note>Annotation on Thomason copy: "Oxon"; "June the 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Stratton (Cornwall, England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155960:1"/>
+            <pb facs="tcp:155960:1"/>
+            <p>THE ROVND-HEADS REMEMBRANCER: OR, A true and particular Relation of the great defeat given to the Rebels by His Majesties good Subjects of the County of <hi>Cornwall,</hi> under the Command of S<seg rend="sup">r</seg> RALPH HOPTON, on <hi>Tuesday May</hi> 16. 1643.</p>
+            <p>
+               <hi>Printed in the Yeare</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155960:2"/>
+            <pb n="1" facs="tcp:155960:2"/>
+            <head>A true Relation of the great Defeat given to the Rebels by His Majesties good Subjects of the County of <hi>Cornwall,</hi> under the Command of S<seg rend="sup">r</seg> RALPH HOPTON. <hi>May</hi> 16. 1643.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Othing is more frequent with the Agents in this Rebellion, then to fasten their Treasons on <hi>God</hi> and <hi>Religion.</hi> If they plunder and rob a mans house, those stoln goods are presently the <hi>gifts of God.</hi> If they fight and are beaten, then either they deny it, and <hi>give thanks for a victory;</hi> or else confesse some small losse, which God sent to them by his <hi>speciall Providence to draw the Cavaleirs into further destruction.</hi> And if at any time they prosper and pre<g ref="char:EOLhyphen"/>vaile over the Kings forces by stealing on them in their beds, by a perfidious Treaty, or some other worse meanes, then each thread and particle of their successe is the <hi>Wonderfull worke of God.</hi> Thus <hi>Wallers</hi> entring <hi>Hereford</hi> is
+<note n="*" place="margin">
+                  <hi>Burrough<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> in a Sermon at London</note> stil'd <hi>as great a Deliverance as the Israëlites passage through the Red sea;</hi> and his <hi>Excellencies</hi> gaining <hi>Reading</hi> they
+<note n="†" place="bottom">
+                  <hi>Sedgwick</hi> at <hi>Reading</hi> May. 21.</note> call <hi>no lesse a mira<g ref="char:EOLhyphen"/>cle then the razing downe the walls of Jericho with pitchers and Rams horns.</hi> Nor is this strange, for they who are come up to that desperate impudence to shoot at the King, and say it is to save his life, will likewise blaspheme <hi>God</hi> to his <hi>honour</hi> and <hi>glory.</hi> And though they know, that we know they are guilty of such villanies as the <hi>Devill</hi> can scarce exceed, yet <hi>God</hi> must be the <hi>Father</hi> of whatsoever they bring forth, and sometimes too before the birth: For on <hi>Tuesday</hi> the 16<seg rend="sup">th</seg> of this moneth,
+<pb n="2" facs="tcp:155960:3"/>when the Westerne Rebells received this defeat, on that ve<g ref="char:EOLhyphen"/>ry day the holy garrison in <hi>Warwicke</hi> had a solemne <hi>Thanksgi<g ref="char:EOLhyphen"/>ving</hi> for a <hi>new great victory over Sir Ralph Hopton;</hi> but whe<g ref="char:EOLhyphen"/>ther God hath suffered himselfe to be mocked, let posterity judge.</p>
+            <p>It is true the Earle of <hi>Stamford</hi> marched out of <hi>Exeter</hi> with almost as much pomp and vainglory as his <hi>Excellencie,</hi> him<g ref="char:EOLhyphen"/>selfe when he first advanced through <hi>London</hi> streetes, promis<g ref="char:EOLhyphen"/>ing all their party to conquer <hi>Cornwall</hi> at this one blow. And to this purpose he had summoned in all the strength he could possibly make, and by perswasions and threats got together betwixt five and 6000 foot. The Country people remembred what faire Articles Sir <hi>Ralph Hopton</hi> and the Cornish Gentry had made for <hi>Peace,</hi> how often the Committee for the two Houses had refused <hi>Peace,</hi> though themselves had sworn to it, and sealed it with the <hi>Sacrament</hi> (which perjury God will one day punish either here or hereafter, if he have not begun it already) and that nothing but bloud would appease the Re<g ref="char:EOLhyphen"/>bells ambition. These and the like thoughts retarded the peo<g ref="char:EOLhyphen"/>ple from being forward to this Battaile. Yet the Earle of <hi>Stamford</hi> is so noble a Lord, that if it ly in his power, no man shall keepe his <hi>Allegiance,</hi> nor any woman her <hi>chastity.</hi> Find<g ref="char:EOLhyphen"/>ing therefore the Country unwilling to come in to him, he rages horribly on divers who refused, plundering them so bare, that Master <hi>Martin</hi> (the Plundermaster Generall) him<g ref="char:EOLhyphen"/>selfe could have gone no higher. Others he smooths and strokes with fine promises, that <hi>they should not need to strike a blow, onely appeare and shew their faces, and they should see him bring the Rebell Hopton into Exeter dead or alive.</hi> Which was bravely said (you'l think) and had more truth in it, then his Lordship imagined, having already brought Sir <hi>Ralph</hi> very neare the very walls of <hi>Exeter.</hi> In the meane time you see the world is come to a fine passe, when the most groundlesse Re<g ref="char:EOLhyphen"/>bellion that ever was heard or read of, must be Gods owne cause; and those loyall Gentlemen (who love their conscience better then their bloud) must be voted for Rebells. Which certainly would be the very top of all their villanies, if these
+<pb n="3" facs="tcp:155960:3"/>Rebells had not now outdone themselves, and (which all good men tremble to think of) accused and voted the QUEENS MAJESTY guilty of <hi>High Treason,</hi> for helping the King (her owne <hi>Lord</hi> and <hi>Husband</hi>) against the worst of Re<g ref="char:EOLhyphen"/>bells in his owne Kingdome.</p>
+            <p>The Rebells having thus gotten their forces together, a<g ref="char:EOLhyphen"/>way they advance to <hi>Stratton</hi> in <hi>Cornwall,</hi> a Towne close up<g ref="char:EOLhyphen"/>on the borders of <hi>Devonshire;</hi> and neare this towne they in<g ref="char:EOLhyphen"/>trenched in as strong a Camp, as (themselves confesse) they ever yet beheld. Two dayes before the blow was struck they ordained a solemne <hi>Fast</hi> (which was held at <hi>Exeter</hi>) for the good successe of this great action; one of the Preachers (as some that heard him have certified) confidently declared, that <hi>God would manifest the justice of the cause by the successe of that dayes worke when ever the two Armies came to joyne.</hi> And now were these Westerne Rebells exactly at the highest (for when Rebels <hi>fast</hi> they are commonly most confident) for men, Or<g ref="char:EOLhyphen"/>dnance, Ammunition, place, Armes, and all other Accommo<g ref="char:EOLhyphen"/>dation never so strong before, but strongest of all in the weak<g ref="char:EOLhyphen"/>nesse of their enemy. For indeed Sir <hi>Ralph Hopton</hi> was never so low as now, his whole body of foot being not full 3000, and his Ammunition not sufficient for those men hee had, as appeared in the event. Yet Sir <hi>Ralph</hi> and those other noble Gentlemen, did not only prepare to meet the Rebells in the field, but (to the perpetuall honour of the County of <hi>Corn<g ref="char:EOLhyphen"/>wall</hi>) assaulted this great Rebellious body in their strong workes and trenches, fighting bravely with them for full 10 houres, and when these loyall gentlemen had spent their Am<g ref="char:EOLhyphen"/>munition, and had not powder left for one houre longer, they then (with unexpressible valour) fell upon the Rebels with their swords and pikes, and fought it out so manfully, that at last they wholly routed the Rebels Army, killed many hun<g ref="char:EOLhyphen"/>dreds of them dead in the place, wounded many more; tooke 1700 prisoners, whereof above 30 Commanders, as <hi>Chud<g ref="char:EOLhyphen"/>leigh</hi> Sergeant Major Generall of their Army, Sr <hi>Robert Wing<g ref="char:EOLhyphen"/>field,</hi> with divers other Sergeant Majors and Captaines; and of Common Souldiers more then they know what to doe with.
+<pb n="4" facs="tcp:155960:4"/>Among those that were slaine, one was <hi>Colmaddy</hi> Lieutenant Colonell to the Generall, with many others of best quality a<g ref="char:EOLhyphen"/>mongst them. They tooke likewise all the Rebels Canon, be<g ref="char:EOLhyphen"/>ing 11 peeces of brasse Ordinance, and 1 brasse Mortar for Granadoes, besides 4 iron peeces and 1 Iron Mortar. In Am<g ref="char:EOLhyphen"/>munition they tooke 57 barrels of powder, with a like pro<g ref="char:EOLhyphen"/>portionable quantity of bullet, shot, match, and betwixt 2 and 3000 armes, besides 3000l in ready money. There were kil<g ref="char:EOLhyphen"/>led and hurt of the Kings Forces 46 Common souldiers, but not any one Commander, or Gentleman of quality.</p>
+            <p>And now let the Reader judge, if ever the Rebels had a more shamefull defeate; and whether the Gentry and Commons of the County of <hi>Cornwall</hi> deserve not to be recorded to all po<g ref="char:EOLhyphen"/>sterity for most loyall and valiant for their <hi>King</hi> and <hi>Country.</hi> What a horrour this hath strucke in the remnant of those Re<g ref="char:EOLhyphen"/>bels who are now at <hi>Exeter,</hi> you may better discerne from their owne hands, more particularly by this intercepted Let<g ref="char:EOLhyphen"/>ter, which was going to <hi>London</hi> from a Cheife Member of their faction.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <hi>Since your departure, I received only two Let<g ref="char:EOLhyphen"/>ters, the one the</hi> 19, <hi>the other the</hi> 20 <hi>of this mo<g ref="char:EOLhyphen"/>neth. Sir</hi> Ralph Hopton <hi>is at</hi> Okington, <hi>and its doubted will very speedily distresse</hi> Exeter; <hi>those horse of ours which escaped are now here, but much wearied out; they came hither from</hi> Bodmin <hi>ye<g ref="char:EOLhyphen"/>sterday morning. These inclosed Letters, were ta<g ref="char:EOLhyphen"/>ken from Doctor</hi> Coxe, <hi>who came with a trumpeter
+<pb facs="tcp:155960:4"/>with Letters to the Commanders here, offering quarter if we would submit; both are yet imprison<g ref="char:EOLhyphen"/>ed, and Doctor</hi> Coxe <hi>who came with a Trumpeter when the Lord Generall said he should be searched for Letters did swallow a paper, and the Trumpe<g ref="char:EOLhyphen"/>ter shewed another in small peeces: they came in last even. The Trained Bands refuse to appeare to assist us, so that wee can hardly hearten on our soul<g ref="char:EOLhyphen"/>diers; but in</hi> Exeter <hi>there is a considerable number of Citizens, and wee have summoned in all the Armes of the East, lest Sir</hi> Ralph Hopton <hi>take them too with the</hi> Posse. <hi>Wee hope to have speedy assistance, before which time wee cannot raise any Force. For now the hearts of Parliaments friends are down, and many daily drop off from us. VVe can do little for want of Armes, which if not speedily sent will do us little good, therefore we beseech you speed them to us. Major</hi> Chudleigh <hi>is turned a<g ref="char:EOLhyphen"/>gainst us. The newes you wrote to Master</hi> Crossing <hi>doth somewhat revive us. The Volunteers will not do the worke I feare; if any experienced religious souldiers be to be gotten from</hi> London <hi>I wish we had them speedily sent us. Our men went on reso<g ref="char:EOLhyphen"/>lutely at this last fight at</hi> Stratton, <hi>being assured that our Horse would countenance them in the Reare; but when they were charged with the Horse
+<pb facs="tcp:155960:5"/>of the enemy, and ours did not what we expected, we were discouraged, and so the enemy by the help of their Horse broke in upon our Foot and routed us, taking all our Cannon, and most of our Ammuniti<g ref="char:EOLhyphen"/>on. VVe hoped this day would have ended the work, and so the</hi> Posse <hi>would have vanished of it's owne accord But God hath otherwise determined yet further to humble us. Our confidence on the arme of flesh (which was our strong Army) was too great &amp;c.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>There's none that considers the whole progresse of the Westerne Affaires from the businesse of <hi>Sherborne Castle</hi> to this very day, but may clearely see the reward of Loyalty and scourge of Rebellion. And how this one single County ha<g ref="char:EOLhyphen"/>ving (through its distance from <hi>Court</hi>) received no supply of Forces from His <hi>Majestie,</hi> nor any assistance by influence of the <hi>Kings Counsell</hi> for better direction in their daily occa<g ref="char:EOLhyphen"/>sions, hath yet (by the extraordinary mercy and blessing of God) maintained an Army for their <hi>King</hi> and <hi>Country,</hi> fight<g ref="char:EOLhyphen"/>ing many Battailes, and obtaining many Victories, to the shame and amazement of their numerous Enemies, and the everlasting honour of the County of CORNWALL.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
